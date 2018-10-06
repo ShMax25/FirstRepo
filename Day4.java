@@ -20,6 +20,6 @@ public class Day4 {
 
     @Test
     public void testName() throws Exception {
-
+    	driver.get();	
     }
 }
