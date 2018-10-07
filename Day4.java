@@ -19,7 +19,7 @@ public class Day4 {
     }
 
     @Test
-    public void testName() throws Exception {
+    public void BadName() throws Exception {
     	driver.get();
     	driver.findElement();	
     }
